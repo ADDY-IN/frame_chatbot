@@ -3,4 +3,3 @@ db/
 .env
 *.pyc\nvenv/
 venv/
-venv/
